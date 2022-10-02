@@ -5,9 +5,14 @@
 を読み進めた記録です。<br>
 
 -------
-リンク集
+### リンク集
 * [Amazon](https://www.amazon.co.jp/dp/483997750X)
 * [鉄則本著者のTwitter](https://twitter.com/e869120)
 * [鉄則本著者のBlog](https://t.co/NoHOtXL9hN)
 * [鉄則本の問題集](https://atcoder.jp/contests/tessoku-book)
 * [鉄則本の補足資料(Github)](https://github.com/E869120/kyopro-tessoku)
+
+-------
+### 進め方
+問題は全てPythonで解いていきます。<br>
+1周目は星4以下のA問題を解いていき、2周目で、1周目解けなかった問題+星5以上+B問題を解いていきます。
